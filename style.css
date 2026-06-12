@@ -67,7 +67,6 @@ html, body {
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
-
 .nav-item:hover::after {
   transform: scaleX(1);
 }
