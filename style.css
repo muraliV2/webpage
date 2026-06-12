@@ -56,7 +56,6 @@ html, body {
   font-size: 18px;
 }
 
-
 .nav-item::after {
   content: "";
   position: absolute;
