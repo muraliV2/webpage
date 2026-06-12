@@ -55,7 +55,6 @@ html, body {
   cursor: pointer;
   font-size: 18px;
 }
-
 .nav-item::after {
   content: "";
   position: absolute;
